@@ -36,7 +36,7 @@
             }
           },
           {
-            "id": "331f802b99e20aa4",
+            "id": "06cbf6eb7ef22971",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -91,6 +91,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "31cbce21fadf91a0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -177,13 +185,14 @@
       "notion-like-tables:Create Notion-Like table": false
     }
   },
-  "active": "331f802b99e20aa4",
+  "active": "06cbf6eb7ef22971",
   "lastOpenFiles": [
-    "TODO.md",
+    "Premed/Checklist.md",
+    "New Text Document.txt",
     "Premed/Research/Torres Lab/CITI Cert.md",
     "Premed/MCAT Studying/Psychology/Relationships and Behavior.md",
     "Premed/MCAT Studying/Psychology/Culture and Society.md",
-    "Premed/Checklist.md",
+    "TODO.md",
     "Untitled.md",
     "Premed/Shadowing/Erica Wang.md",
     "Premed/Shadowing/Victor Peng MD.md",
@@ -207,7 +216,6 @@
     "Resumes",
     "Patel Lab - Sumer 2014.md",
     "Premed/Research",
-    "Premed/Experiences",
     "2023-03-28.md",
     "3-28-2023.md",
     "Project Ideas/Simple Genome Sequence Search.md",
@@ -215,7 +223,6 @@
     "People/Aveeno.md",
     "People/null.md",
     "People/Johanna Hoang.md",
-    "Templates/People.md",
     "TestCanvas.canvas"
   ]
 }
