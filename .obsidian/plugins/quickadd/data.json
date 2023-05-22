@@ -1,0 +1,45 @@
+{
+  "choices": [
+    {
+      "id": "cac36111-bcf9-45da-ba33-c9ecaaa5597e",
+      "name": "Person",
+      "type": "Template",
+      "command": false,
+      "templatePath": "Templates/People.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "Person"
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Nothing",
+      "setFileExistsBehavior": true
+    }
+  ],
+  "macros": [],
+  "inputPrompt": "single-line",
+  "devMode": false,
+  "templateFolderPath": "",
+  "announceUpdates": true,
+  "version": "0.16.0",
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
+    "setVersionAfterUpdateModalRelease": true
+  }
+}

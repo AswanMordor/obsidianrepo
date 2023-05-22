@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "a93f11cf46c64ebd",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6d5fee63061a50a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63a09a6662ace77c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Premed/Checklist.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "3d7325078404eb47",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODO.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "06cbf6eb7ef22971",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Premed/Research/Torres Lab/CITI Cert.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "819f947d12d41b5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "86bc33055a5d7c39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0419212cf801e999",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "035ca69df5cfde4b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "23ce8034ccf3b5cb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6a65bfbde03fc28d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2b728e353171ec5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49f9ea4ffb6c8c3b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Premed/Research/Torres Lab/CITI Cert.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "74bab179e33f597a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Premed/Research/Torres Lab/CITI Cert.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "71f7ab178442e123",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "739d69d326d165a8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Premed/Research/Torres Lab/CITI Cert.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "notion-like-tables:Create Notion-Like table": false
+    }
+  },
+  "active": "06cbf6eb7ef22971",
+  "lastOpenFiles": [
+    "Premed/MCAT Studying/Psychology/Relationships and Behavior.md",
+    "Premed/MCAT Studying/Psychology/Culture and Society.md",
+    "Premed/Checklist.md",
+    "TODO.md",
+    "Untitled.md",
+    "Premed/Research/Torres Lab/CITI Cert.md",
+    "Premed/Shadowing/Erica Wang.md",
+    "Premed/Shadowing/Victor Peng MD.md",
+    "Premed/MCAT Studying/Psychology",
+    "Premed/MCAT Studying",
+    "Premed/Recommendation Letters",
+    "Premed/Research/Patel Lab/Patel Lab - Summer 2015.md",
+    "Premed/Shadowing",
+    "Premed/Research/Patel Lab",
+    "Premed/Research/Torres Lab/Torres Lab Contact.md",
+    "Premed/Research/Patel Lab/Patel Lab - Summer 2014.md",
+    "Premed/Research/Potential Labs - Contact List.md",
+    "Premed/Research/Torres Lab",
+    "Premed/Research/Nicholas Lab.md",
+    "Premed/Experiences/Patient - Feeding when Hands Were Too Shaky.md",
+    "Premed/Experiences/Patient - Confused Asking About MRI Scan.md",
+    "Fitness/Hannah Basic 2-Day Workout.md",
+    "Fitness",
+    "Resumes/Short-Form Resume.md",
+    "Resumes/Long-Form Resume.md",
+    "Resumes",
+    "Patel Lab - Sumer 2014.md",
+    "Premed/Research",
+    "Premed/Experiences",
+    "2023-03-28.md",
+    "3-28-2023.md",
+    "Project Ideas/Simple Genome Sequence Search.md",
+    "Project Ideas/Simple Genome Sequence Search/Main View.canvas",
+    "People/Aveeno.md",
+    "People/null.md",
+    "People/Johanna Hoang.md",
+    "Templates/People.md",
+    "TestCanvas.canvas"
+  ]
+}
