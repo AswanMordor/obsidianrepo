@@ -615,8 +615,7 @@ At a minimum, most IRBs expect the following documents as part of a complete stu
 	-   Other individuals who are qualified to represent the rights and welfare of prisoners by virtue of appropriate background and experience with prisons and prisoners
 - Exempt research under 45 CFR 46.104 (Protection of Human Subjects 2018) may include prisoners if the research is aimed at involving a broader subject population and only incidentally includes prisoners.
 - Expidited reivews are allowed, but stonrgly discouraged
-- 
-THIS is a NEW TEST of the Backup Part 4
+
 
 
 
