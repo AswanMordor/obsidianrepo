@@ -1,0 +1,3 @@
+## Disclaimer
+This paper is written without formal instruction in the applications and principles of the style. Some information is obtained directly through students of Chinese Kung Fu including a basic form; however, most information including history and applications have been derived from external sources: chiefly documentary and instructional videos, a sports science paper, and internet blog posts from Chinese martial arts schools and societies in the US and China. The opinions represented are a reflection of the information I have managed to collect mixed with my personal interpretations.
+

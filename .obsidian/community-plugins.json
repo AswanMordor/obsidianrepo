@@ -6,9 +6,9 @@
   "nldates-obsidian",
   "obsidian-mind-map",
   "cm-editor-syntax-highlight-obsidian",
-  "obsidian-banners",
   "notion-like-tables",
   "obsidian-plugin-toc",
   "quickadd",
-  "obsidian-git"
+  "obsidian-git",
+  "make-md"
 ]
