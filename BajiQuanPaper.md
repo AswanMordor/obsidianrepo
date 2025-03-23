@@ -2,7 +2,7 @@
 
 **Disclaimer**: The information contained in this paper is solely obtained through research via papers, new articles, blog posts from martial arts schools and sociaties in the US and China, and instructional videos archived to YouTube. I have not directly been taught Bajiquan by an expert instructor. While I have used my best efforts to collate and filter the information presented based on a consensus methodology, my interpretations still color how the art and its techniques are presented.
 
-Please think of this paper as a brief introduction to help the reader decide if Bajiquan is of interest to persue further. Links for futher material are provided alongside the References section.
+Please think of this paper as a brief introduction to help the reader decide if Bajiquan is of interest to persue further. Links for futher material are provided alongside the References section. /git
 
 ## Introduction
 
@@ -20,7 +20,7 @@ The "Ji" in Baji is commonly interpreted to mean "extremes". Combined with the f
 
 ## Guiding Approaches and Principles
 
-Bajiquan's main purpose is to close distance with the opponent, usually superimposing one leg with the opponent's stance, and initiate a takedown. Some substyles of Bajiquan contain further groundwork, while others stop at takedown and subsequent strike. Bajiquan contains no obvious blocks, instead relying on deflections and grabs. In this way, Bajiquan is all aggression as every deflection is paired with a near simultaneous strike and closing footwork. Footwork and stance structure comprise the essence of Bajiquan, as many instructors assert a stable stance and body structure as the fundimental means of power generation. Nearly all Bajiquan attacks consist of footwork that steps into an opponent's stance, and whole body ramming attacks that either push the opponent away or take them down. Trips and reaps are staples, while Judo-esq throws are absent.
+Bajiquan's main purpose is to close distance with the opponent, usually superimposing one leg with the opponent's stance, and initiate a takedown. Some substyles of Bajiquan contain further groundwork, while others stop at takedown and subsequent strike. Bajiquan contains no obvious blocks, instead relying on deflections and grabs. In this way, Bajiquan is all aggression as every deflection is paired with a near simultaneous strike and closing footwork. Footwork and stance structure comprise the essence of Bajiquan, as many instructors assert a stable stance and body structure as the fundimental means of power generation. Nearly all Bajiquan attacks consist of footwork that steps into an opponent's stance, and whole body ramming attacks that either push the opponent away or take them down. Trips and reaps are staples, while Judo-esq throws that move one's back to the opponent are absent.
 
 ### Stance
 Bajiquan has many of the common stances seen throughout Chinese kungfu including Mǎbù (馬步) "Horse Stance", Gōng Bù (弓步) "Bow Stance", and Gai Bu (盖步) "Cross Step/Stance". Bajiquan keeps its stances low compared to karate, and emphasizes wider legs with firmly planted feet. Rather than coiled like a spring for explosive lunges or kicks, Bajiquan's stances serve as a stable base to undermine the opponents stance and make it easier to initiate trips, reaps, and other takedowns. A useful way to envision the utility of Bajiquan stancework is to picture the low stance as the base for a battering ram, where Bajiquan footwork simply rams the user into the opponent's space with full body weight, lower center of gravity, and a sturdier means of absorbing recoil. Bajiquan practicioners train their stances around 90 degrees or lower, while staying in stance positons such as the one below for minutes at times before very slowly transitioning to the next stance.
@@ -189,4 +189,3 @@ As the Bajiquan user passes the opponent, he puts his legs behind the opponent's
  10. https://www.youtube.com/watch?v=oJgSJPBd2tM&ab_channel=kuro-obiworld "This is the basic "Bajiquan" action! Let's try!【Miyahira Tamotsu】", kuro-obi world.
  11. https://yanchenwuguan.com/basics-stances-in-shaolin-kungfu/ "Kung Fu Basics: Stances", Yanchen Shaolin Kung Fu. *Internet Blog Post*
  12. http://www.wufamilybajiquan.com/technical-features.html "Principles of BajiQuan - Technical Features", Wu Family Bajiquan. *Internet Blog Post* 
-/git
