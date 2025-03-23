@@ -56,6 +56,7 @@ Dan (单): A technique often interpreted as a single-handed strike or movement, 
 ### Continuous Strong Attacks
 - The strikes of Baji Quan in contrast to a style like Wing Chun are strong and quick but generally not delivered in a barrage, with each strike deliberate and varied in targeting. (**1**)
 ### Throwing (usually with trips or reaps)
+ - 
 # Specific Techniques (Open-Handed)
 Most of these are adapted from the documentary (**6**).
 ## The Push

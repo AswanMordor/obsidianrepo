@@ -6,10 +6,19 @@
       {
         "id": "d6d5fee63061a50a",
         "type": "tabs",
-        "dimension": 49.616858237547895,
         "children": [
           {
-            "id": "c26e84129e6a1c69",
+            "id": "3d7325078404eb47",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "empty",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "cc06e70593559e12",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -17,33 +26,11 @@
                 "file": "Karate/BajiQuan.md",
                 "mode": "source",
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "BajiQuan"
+              }
             }
           }
-        ]
-      },
-      {
-        "id": "e90946a09bc3af33",
-        "type": "tabs",
-        "dimension": 50.38314176245211,
-        "children": [
-          {
-            "id": "5c5dacf5daea1de2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BajiQuan Paper.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "BajiQuan Paper"
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -62,11 +49,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -81,9 +65,7 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
+              }
             }
           },
           {
@@ -91,49 +73,22 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "state": {}
             }
           },
           {
-            "id": "d01bddb421d98fdc",
+            "id": "31cbce21fadf91a0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
-          },
-          {
-            "id": "eef5fdaf71289f8b",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "fbab86cef6fe8d59",
-            "type": "leaf",
-            "state": {
-              "type": "mk-file-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Spaces"
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
     "id": "6a65bfbde03fc28d",
@@ -149,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BajiQuanPaper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,9 +112,7 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
+              }
             }
           },
           {
@@ -167,11 +121,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "BajiQuanPaper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
+              }
             }
           },
           {
@@ -181,12 +134,8 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+                "useHierarchy": true
+              }
             }
           },
           {
@@ -195,12 +144,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
+                "file": "BajiQuanPaper.md"
+              }
             }
           }
         ]
@@ -218,56 +163,92 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "notion-like-tables:Create loom": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "notion-like-tables:Create Notion-Like table": false
     }
   },
-  "active": "0419212cf801e999",
+  "floating": {
+    "id": "858fbeb614a3c376",
+    "type": "floating",
+    "children": [
+      {
+        "id": "6ff420a73cf59d59",
+        "type": "window",
+        "children": [
+          {
+            "id": "3b914fe5e161a03b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0a981256ba74a026",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "BajiQuanPaper.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1280,
+        "y": 0,
+        "width": 1280,
+        "height": 1392,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "0a981256ba74a026",
   "lastOpenFiles": [
-    "BajiQuan Paper.md",
     "Karate/BajiQuan.md",
-    "Karate/Kihon (Basics)/Mae Keage Geri (High Front Kick)- Lower #6.md",
-    "Karate/Kihon (Basics)/[SPELLING] Kegato Geri (Sacrifice Kick - Fallen Kick) - Lower #11.md",
-    "Karate/Kihon (Basics)/Kegato Geri (Sacrifice Kick - Fallen Kick) - Lower #11 1.md",
-    "Karate/Kihon (Basics)/Mikzuki Geri (Crescent Kick) - Lower #17.md",
-    "Karate/Kihon (Basics)/Nidan Geri (Double Front Jump Kick) - Lower #16.md",
-    "Karate/Kihon (Basics)/Yoko Tobi Geri V2. (Side Kick to the Knee from Angle) - Lower #15.md",
-    "Karate/Kihon (Basics)/Yoko Tobi Geri [DEPRECATED] (Jumping Side-Blade Kick) - Lower #15.md",
-    "Karate/Kihon (Basics)/Mae Tobi Geri (Front Jump Kick) - Lower #14.md",
-    "Karate/Kihon (Basics)/Yoko Kekomi Keage Geri (High Side-Blade Kick) - Lower #13.md",
-    "Karate/Kihon (Basics)/Yoko Keage Geri (High Turning Front Kick) - Lower #12.md",
-    "Karate/Kihon (Basics)/Ushiro Geri (Back Heel Kick)- Lower #7.md",
-    "Karate/Kihon (Basics)/Kin Geri (Slap Kick to the Groin)- Lower #10.md",
-    "Karate/Kihon (Basics)/Hiza Kin Geri (Low Knee - to the groin)- Lower #9.md",
-    "Karate/Kihon (Basics)/Hiza Geri (Knee)- Lower #8.md",
-    "Karate/Kihon (Basics)/Kensetsu Geri (Stomping Blade Kick)- Lower #4.md",
-    "Karate/Kihon (Basics)/Yoko Kekomi Geri (Side Blade Kick) - Lower #3.md",
-    "Karate/Kihon (Basics)/Mae Geri (Front Kick)- Lower #1.md",
-    "Spaces/Home",
-    "Spaces",
-    "Pasted image 20250313191227.png",
-    "Screenshot 2025-03-05 at 12.24.15 AM.png",
-    "Pasted image 20250313191321.png",
+    "BajiQuanPaper.md",
+    "Resumes/Short-Form Resume.md",
     "imgs/imgs.md",
     "imgs",
-    "Screenshot 2025-03-05 at 12.30.17 AM.png",
     "Screenshot 2025-03-05 at 12.32.46 AM.png",
+    "Screenshot 2025-03-05 at 12.30.17 AM.png",
     "Screenshot 2025-03-05 at 12.29.21 AM.png",
     "Screenshot 2025-03-05 at 12.26.12 AM.png",
-    "Karate/Kihon (Basics)/Mawashi Geri (Roundhouse Kick)- Lower #5.md",
-    "Karate/Kihon (Basics)/Gyaku Zuki - Upper #8.md",
-    "Karate/Kihon (Basics)/Cross Punch - Upper #12.md",
-    "Karate/Kihon (Basics)/Advancing Seiken (Tate) Zuki - Upper #9.md",
+    "Screenshot 2025-03-05 at 12.24.15 AM.png",
+    "Pasted image 20250313191321.png",
+    "Pasted image 20250313191227.png",
+    "Knowledge.md",
+    "Karate/Kata (Forms)/Kata (Forms).md",
+    "Karate/Throws/Throws.md",
+    "Karate/Self Defense Principles and Combinations/Self Defense Principles and Combinations.md",
+    "Karate/History, Philosophy, and Terminiology/History, Philosophy, and Terminiology.md",
+    "Karate/Kihon (Basics)/[SPELLING] Kegato Geri (Sacrifice Kick - Fallen Kick) - Lower #11.md",
+    "Karate/Kihon (Basics)/Yoko Tobi Geri [DEPRECATED] (Jumping Side-Blade Kick) - Lower #15.md",
+    "Karate/Kihon (Basics)/Yoko Tobi Geri V2. (Side Kick to the Knee from Angle) - Lower #15.md",
+    "Karate/Kihon (Basics)/Yoko Kekomi Keage Geri (High Side-Blade Kick) - Lower #13.md",
+    "Karate/Kihon (Basics)/Yoko Kekomi Geri (Side Blade Kick) - Lower #3.md",
+    "Karate/Kihon (Basics)/Yoko Keage Geri (High Turning Front Kick) - Lower #12.md",
     "Karate/Kihon (Basics)/Yoko Geri - (Turning Front Kick) Lower #2.md",
+    "Karate/Kihon (Basics)/Ushiro Geri (Back Heel Kick)- Lower #7.md",
+    "Karate/Kihon (Basics)/Uraken Uchi - Upper #3.md",
+    "Karate/Kihon (Basics)/Shuto Uchi - Upper #7.md",
     "Karate/Kihon (Basics)/Seiken (Tate) Zuki - Upper #1.md",
+    "Karate/Kihon (Basics)/Nihon Ken - Upper #5.md",
+    "Karate/Kihon (Basics)/Nidan Geri (Double Front Jump Kick) - Lower #16.md",
+    "Karate/Kihon (Basics)/Modified Nukite - Upper #11.md",
+    "Karate/Kihon (Basics)/Mikzuki Geri (Crescent Kick) - Lower #17.md",
+    "Karate/Kihon (Basics)/Mawashi Geri (Roundhouse Kick)- Lower #5.md",
+    "Karate/Kihon (Basics)/Mae Tobi Geri (Front Jump Kick) - Lower #14.md",
     "Karate/Kata (Forms)",
+    "Karate/Throws",
     "Karate/Self Defense Principles and Combinations",
     "Karate/History, Philosophy, and Terminiology",
-    "Karate/Throws",
-    "Screenshot 2024-05-12 at 5.56.57 PM.png",
     "Karate/Kihon (Basics)",
     "Karate",
-    "Premed/TEST",
+    "New Text Document.txt",
+    "Premed/MCAT Studying/Psychology",
+    "Premed/MCAT Studying",
     "Project Ideas/Simple Genome Sequence Search/Main View.canvas",
     "TestCanvas.canvas"
   ]
